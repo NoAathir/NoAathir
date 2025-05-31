@@ -1,0 +1,31 @@
+# ========================
+# Flutter / Dart Settings
+# ========================
+build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# ===================================
+# Firebase Configuration & Rules Files
+# ===================================
+.firebaserc
+firebase.json
+firestore.rules
+
+# =================
+# IDE / Editor Files
+# =================
+.vscode/
+.idea/
+
+# =========
+# macOS Files
+# =========
+.DS_Store
+
+# ====================
+# Android Studio Files
+# ====================
+*.iml
+.gradle/￼Enter
